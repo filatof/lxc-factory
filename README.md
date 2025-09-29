@@ -1,4 +1,4 @@
-# Proxmox LXC Cluster Automation
+# Proxmox LXC Cluster
 
 Ansible-плейбук для автоматического создания кластера LXC-контейнеров в Proxmox.
 
